@@ -87,7 +87,7 @@ last_plot() +
   )
 ```
 
-### (f) Extra: Change the axes labels using `labs()`
+### (f) Extra: Change the axes labels using `labs()` and center the title.
 
 ```{r}
 # your code
